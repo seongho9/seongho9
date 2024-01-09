@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ---
 used at least once
 
-![ts](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF) ![three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF) ![webGL](https://img.shields.io/badge/webgl-990000?style=for-the-badge&logo=webgl&logoColor=FFFFFF) ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![ts](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF) ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF) ![three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF) ![webGL](https://img.shields.io/badge/webgl-990000?style=for-the-badge&logo=webgl&logoColor=FFFFFF) 
 
 ![JAVA](https://img.shields.io/badge/java-437291?style=for-the-badge&logo=openjdk&logoColor=FFFFFF) ![spring](https://img.shields.io/badge/spring-6DB33F/?style=for-the-badge&logo=spring&logoColor=FFFFFF)
 
