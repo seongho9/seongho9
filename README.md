@@ -23,6 +23,7 @@ used at least once
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
 ![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=ffffff)
+
 currently learning
 
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF) ![cpp](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
