@@ -26,7 +26,8 @@ used at least once
 
 currently learning
 
-![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF) ![cpp](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
+#![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF) 
+![cpp](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongho9276)](https://solved.ac/seongho9276/)
 
