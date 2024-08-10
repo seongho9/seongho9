@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
 ![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=ffffff)
-![cpp](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
+
+![cpp](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF) ![qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=000000)
 
 currently learning
 
