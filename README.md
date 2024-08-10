@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-비교적 자주 사용한 것
+<strong>비교적 자주 사용한 것</strong>
 
 ![ts](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF) ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF) ![three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF) ![webGL](https://img.shields.io/badge/webgl-990000?style=for-the-badge&logo=webgl&logoColor=FFFFFF) 
 
