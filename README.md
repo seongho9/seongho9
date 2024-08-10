@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 
 ![cpp](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF) ![qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=000000)
 
-currently learning
 
 <!-- ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF) -->
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongho9276)](https://solved.ac/seongho9276/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seongho9&show_icons=true&theme=radical)
 
 ---
 [![gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:seongho9@gmail.com) 
